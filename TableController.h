@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableController.h
 //  Resh
 //
 //  Created by wo on 15/9/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableController : UIViewController
 
 @end
-
